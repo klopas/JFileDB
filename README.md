@@ -1,2 +1,2 @@
 # JFileDB
-JFileDB is a database based on memory json files.
+JFileDB es una base de datos basada en ficheros json que se persisten en memoria física.
